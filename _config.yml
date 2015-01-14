@@ -1,9 +1,9 @@
 # Site settings
-title: lauris.github.io
-email: lauris@discuss.lv
-description: "Personal blog about programming, hacking, open-source, startups, git, vim, linux, etc."
+title: aflyax-blog.github.io
+email: aflyax@gmail.com
+description: "Exploring data science with Julia and Python"
 baseurl: ""
-url: "https://lauris.github.io"
+url: "https://aflyax-blog.github.io"
 twitter_username: lauriswat
 github_username:  lauris
 
